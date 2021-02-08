@@ -1,0 +1,9 @@
+site_name: devOS Wiki
+site_description: 'devOS Wiki'
+site_author: 'HiItsDevin_'
+theme:
+  name: material
+  palette:
+  - scheme: default
+    primary: green
+    accent: green
